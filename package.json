@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prettier": "^2.8.1",
+    "web3": "^1.8.1"
+  }
+}
